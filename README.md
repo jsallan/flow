@@ -7,7 +7,7 @@ A product line of sculpted split ergo mech keyboards
 The intention of these keyboards is to combine the comfort of a split ergo keyboard with integrated trackball, and the style of a polished product. 
 
 ## Process
-These keyboards started by leveraging the utility of dactyl generators. The dactyl generators are great to quickly optimize key position, tenting angle etc. Once the design was comfortable, the dactyl design was imported into Fusion 360. The key placement was matched and a form was wrapped wrapped. 
+These keyboards began as dactyl manuforms. The dactyl generators are great to quickly optimize key position, tenting angle etc. Once the design was comfortable, the dactyl design was imported into Fusion 360. The key placement was matched and a form was wrapped wrapped. 
 
 ## Key Attributes
 - integrated 34mm trackball using the PMW3360 sensor
