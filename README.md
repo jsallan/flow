@@ -1,7 +1,7 @@
 ![trinidox](https://raw.githubusercontent.com/jsallan/flow/main/images/20230623_180005~2.jpg) 
 
 # flow
-A product line of sculpted split ergo mech keyboards
+Ambition: a product line of sculpted split ergo mech keyboards.
 
 ## Motivation
 The intention of these keyboards is to combine the comfort of a split ergo keyboard with integrated trackball, and the style of a polished product. 
