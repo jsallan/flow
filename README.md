@@ -1,4 +1,4 @@
-![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/20230623_180005~2.jpg) 
+![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180005~2.jpg) 
 
 # flow
 A product line of sculpted split ergo mech keyboards.
@@ -34,7 +34,7 @@ The print list assumes you want to print a trackball on the right and no trackba
 | right case | No | 1 | [MX](https://github.com/jsallan/flow/blob/main/stl/MX36/MX36%20tball.stl) or choc |
 | plate| 1-yes and 1-no  | 2 | [MX](https://github.com/jsallan/flow/blob/main/stl/MX36/MX36%20plate.stl) or choc |
 | bearing holder | No | 3 | [here](https://github.com/jsallan/trinidox/blob/main/stl/tball_bearing_holder%20v14.stl) |
-| uC holder | No | 2 | [PI Pico](link) or ProMico |
+| uC holder | No | 2 | [PI Pico](https://github.com/jsallan/uC-trays/blob/main/models/PI%20PIco/PI%20Pico%20tray.stl) or ProMico |
 
 ## Part List
 Please note that the links below are intended as examples. These happen to be the same products that I bought, but I'm not an affiliate and have no business relationship with the sellers.
@@ -52,7 +52,7 @@ Please note that the links below are intended as examples. These happen to be th
 
 **You'll also need one PMW3360 sensor board.** You can either purchase one from [tindie](https://www.tindie.com/products/jkicklighter/pmw3360-motion-sensor/), or [make your own](https://github.com/Ariamelon/Ogen).  
 
-### Considerations for the electronics
+### Parts for the electronics
 The list below is not comprehensive because the items involve a lot of personal preference...some folks use hotswaps, some don't. Don't even get me started about keyswitches.
 | **Item** | **Comments** |
 |----------|----------|
@@ -68,10 +68,20 @@ The list below is not comprehensive because the items involve a lot of personal 
 
 ## Build Guides
 There are many great build guides already written by people with a much better command of the english language than myself...so I'm not intending to put together a comprehensive how-to. Instead, below are some links that I've found super useful as I've built keyboards, and I hope they can serve others as well.
-[Minidox Amoeba build](https://www.dlford.io/keyboard-build-guide-per-key-rgb-leds/) - very good overall build guide, especially if you intend to use amoebas and RBG LEDs.
-[Sofle RBG build guide](https://josefadamcik.github.io/SofleKeyboard/build_guide_rgb.html) - useful for LED pinout.
+- [Minidox Amoeba build](https://www.dlford.io/keyboard-build-guide-per-key-rgb-leds/) - very good overall build guide, especially if you intend to use amoebas and RBG LEDs.
+- [Sofle RBG build guide](https://josefadamcik.github.io/SofleKeyboard/build_guide_rgb.html) - useful for LED pinout.
+
+## Gallery
+If you've built one, I'd love to add a picture of it below :-)
+### flow-MX36
+![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180352.jpg) 
+![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180442.jpg) 
+![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180524.jpg) 
+![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180551.jpg) 
+![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180608.jpg) 
+![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180624.jpg) 
+
 
 ## Buy Me a Coffee
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://bmc.link/jsallan)
-
 Absolutely no expectation...it seems to be a thing.
