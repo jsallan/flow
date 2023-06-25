@@ -72,6 +72,6 @@ There are many great build guides already written by people with a much better c
 [Sofle RBG build guide](https://josefadamcik.github.io/SofleKeyboard/build_guide_rgb.html) - useful for LED pinout.
 
 ## Buy Me a Coffee
-Absolutely no expectation...it seems to be a thing.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://bmc.link/jsallan)
+Absolutely no expectation...it seems to be a thing.
 
