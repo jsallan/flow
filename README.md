@@ -1,10 +1,10 @@
-![flow-MX18](https://raw.githubusercontent.com/jsallan/flow/main/images/20230623_180005~2.jpg) 
+![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/20230623_180005~2.jpg) 
 
 # flow
 A product line of sculpted split ergo mech keyboards.
 
 **\*\*Note:** as of 24-June-2023, the flow-MX36 is released and the flow-choc40 is in dev.
-## Key Attributes
+## Main Attributes
 - integrated 34mm trackball using the PMW3360 sensor
 - ceramic trackball bearings
 - options for both choc v1 switches and MX switches
@@ -15,7 +15,7 @@ A product line of sculpted split ergo mech keyboards.
 ## Motivation
 There's a number drivers for the keyboard series. Below is a summary of the top 3:
 - proven comfort from previous split designs, [MX](https://www.thingiverse.com/thing:5404852) and [choc](https://github.com/jsallan/trinidox)
-- integrated trackball for enhanced convenience
+- trackball mandatory for enhanced convenience
 - a finished look, e.g. hidden switches, smooth lines, hidden plate etc.
 
 ## Process
