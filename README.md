@@ -11,7 +11,7 @@ A product line of sculpted split ergo mech keyboards.
 - USB-C interlink cable
 - uC trays for PI Pico and Pro Micro (in dev)
 
-**\*\*Note:** I think that a row and/or col could be added with some effort. I'm curious if this would make these keyboards more accessible. If you have time, I'd love to hear your perspective...here's a [survey](https://www.surveymonkey.com/r/B2MHMTC).
+**\*\*Note:** I think that a row and/or col could be added with some effort. I'm curious if this would make these keyboards more accessible. If you have time, I'd love to hear your perspective...here's a [survey](https://forms.gle/6ikiyWEq5DA8FnEW9).
 ## Motivation
 There's a number drivers for the keyboard series. Below is a summary of the top 3:
 - proven comfort from previous split designs, [MX](https://www.thingiverse.com/thing:5404852) and [choc](https://github.com/jsallan/trinidox)
