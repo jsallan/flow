@@ -1,4 +1,3 @@
-![flow-logo](https://raw.githubusercontent.com/jsallan/flow/main/images/flow_logo.png) 
 ![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180005~2.jpg) 
 
 # flow
@@ -88,4 +87,5 @@ If you've built one, I'd love to add a picture of it below :-)
 
 ## Buy Me a Coffee
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://bmc.link/jsallan)
+
 Absolutely no expectation...it seems to be a thing.
