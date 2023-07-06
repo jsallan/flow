@@ -1,3 +1,4 @@
+![flow-logo](https://raw.githubusercontent.com/jsallan/flow/main/images/flow_logo.png) 
 ![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180005~2.jpg) 
 
 # flow
@@ -18,12 +19,15 @@ There's a number drivers for the keyboard series. Below is a summary of the top 
 - trackball mandatory for enhanced convenience
 - a finished look, e.g. hidden switches, smooth lines, hidden plate etc.
 
-## Process
+## Design Details
+### Process
 These keyboards started life as dactyl manuforms. The dactyl generators are great to quickly optimize key position, tenting angle etc. Once the design reached a point of comfort, the dactyl design was imported into Fusion 360. The dactyl was used for key and trackball positioning. 
 
 The MX variant didn't have an existing trackball, so it took a number of iterations to nail down a comfortable position.
+### Trackball Placement
+The trackball position of the trackball was designed to be used by a "row shift" relative to the home-row, i.e. fingers on top row with thumb on trackball. The top row can be mapped to mouse keys which is a good complement to VIM navigation (HJKL for arrow keys)...however your keymap needs to make sense to you!
 
-## MX and choc differences
+### MX and choc differences
 Through a period of discovery, the comfortable trackball position relative to the thumb keys is quite different between choc and MX. This is ultimately the reason for the different keyboards. Of course the thickness of the key matrices are different, but I initially thought that could be overcome by clever design features. However once it was determined that trackball positions had to be different, two designs was the only path forward. This actually worked out well because the MX and choc key matrices on the reference designs were quite different, meaning a merge conflict was avoided.
 
 ## Print List
@@ -84,4 +88,5 @@ If you've built one, I'd love to add a picture of it below :-)
 
 ## Buy Me a Coffee
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://bmc.link/jsallan)
+
 Absolutely no expectation...it seems to be a thing.
