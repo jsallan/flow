@@ -1,4 +1,5 @@
 ![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180005~2.jpg) 
+![flow-logo](https://raw.githubusercontent.com/jsallan/flow/main/images/flow_logo.png) 
 
 # flow
 A product line of sculpted split ergo mech keyboards.
