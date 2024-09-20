@@ -84,8 +84,3 @@ If you've built one, I'd love to add a picture of it below :-)
 ![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180608.jpg) 
 ![flow-MX36](https://raw.githubusercontent.com/jsallan/flow/main/images/MX36/20230623_180624.jpg) 
 
-
-# Buy Me a Coffee
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://bmc.link/jsallan)
-
-Absolutely no expectation...it seems to be a thing.
